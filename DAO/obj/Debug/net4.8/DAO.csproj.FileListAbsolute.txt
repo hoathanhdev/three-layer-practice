@@ -1,0 +1,13 @@
+D:\DoAn\QLNGK\DAO\obj\Debug\net4.8\DAO.csproj.AssemblyReference.cache
+D:\DoAn\QLNGK\DAO\obj\Debug\net4.8\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAn\QLNGK\DAO\obj\Debug\net4.8\DAO.AssemblyInfoInputs.cache
+D:\DoAn\QLNGK\DAO\obj\Debug\net4.8\DAO.AssemblyInfo.cs
+D:\DoAn\QLNGK\DAO\obj\Debug\net4.8\DAO.csproj.CoreCompileInputs.cache
+D:\DoAn\QLNGK\DAO\bin\Debug\net4.8\DAO.dll
+D:\DoAn\QLNGK\DAO\bin\Debug\net4.8\DAO.pdb
+D:\DoAn\QLNGK\DAO\bin\Debug\net4.8\System.Data.SqlClient.dll
+D:\DoAn\QLNGK\DAO\bin\Debug\net4.8\DTO.dll
+D:\DoAn\QLNGK\DAO\bin\Debug\net4.8\DTO.pdb
+D:\DoAn\QLNGK\DAO\obj\Debug\net4.8\DAO.csproj.CopyComplete
+D:\DoAn\QLNGK\DAO\obj\Debug\net4.8\DAO.dll
+D:\DoAn\QLNGK\DAO\obj\Debug\net4.8\DAO.pdb

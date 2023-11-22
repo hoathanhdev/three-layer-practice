@@ -1,0 +1,9 @@
+D:\DoAn\QLNGK\DTO\bin\Debug\net4.8\DTO.dll
+D:\DoAn\QLNGK\DTO\bin\Debug\net4.8\DTO.pdb
+D:\DoAn\QLNGK\DTO\obj\Debug\net4.8\DTO.csproj.AssemblyReference.cache
+D:\DoAn\QLNGK\DTO\obj\Debug\net4.8\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAn\QLNGK\DTO\obj\Debug\net4.8\DTO.AssemblyInfoInputs.cache
+D:\DoAn\QLNGK\DTO\obj\Debug\net4.8\DTO.AssemblyInfo.cs
+D:\DoAn\QLNGK\DTO\obj\Debug\net4.8\DTO.csproj.CoreCompileInputs.cache
+D:\DoAn\QLNGK\DTO\obj\Debug\net4.8\DTO.dll
+D:\DoAn\QLNGK\DTO\obj\Debug\net4.8\DTO.pdb

@@ -1,0 +1,15 @@
+D:\DoAn\QLNGK\BUS\obj\Debug\net4.8\BUS.csproj.AssemblyReference.cache
+D:\DoAn\QLNGK\BUS\obj\Debug\net4.8\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAn\QLNGK\BUS\obj\Debug\net4.8\BUS.AssemblyInfoInputs.cache
+D:\DoAn\QLNGK\BUS\obj\Debug\net4.8\BUS.AssemblyInfo.cs
+D:\DoAn\QLNGK\BUS\obj\Debug\net4.8\BUS.csproj.CoreCompileInputs.cache
+D:\DoAn\QLNGK\BUS\bin\Debug\net4.8\BUS.dll
+D:\DoAn\QLNGK\BUS\bin\Debug\net4.8\BUS.pdb
+D:\DoAn\QLNGK\BUS\bin\Debug\net4.8\System.Data.SqlClient.dll
+D:\DoAn\QLNGK\BUS\bin\Debug\net4.8\DAO.dll
+D:\DoAn\QLNGK\BUS\bin\Debug\net4.8\DTO.dll
+D:\DoAn\QLNGK\BUS\bin\Debug\net4.8\DAO.pdb
+D:\DoAn\QLNGK\BUS\bin\Debug\net4.8\DTO.pdb
+D:\DoAn\QLNGK\BUS\obj\Debug\net4.8\BUS.csproj.CopyComplete
+D:\DoAn\QLNGK\BUS\obj\Debug\net4.8\BUS.dll
+D:\DoAn\QLNGK\BUS\obj\Debug\net4.8\BUS.pdb
